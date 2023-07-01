@@ -1,4 +1,4 @@
-###  The secret of getting ahead is getting started! 👋
+<h1>The secret of getting ahead is getting started. </h1>
 ## Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
